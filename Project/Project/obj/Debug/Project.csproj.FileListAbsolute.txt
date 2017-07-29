@@ -1,0 +1,16 @@
+c:\users\notebook\documents\visual studio 2013\Projects\Project\Project\bin\Debug\Project.exe.config
+c:\users\notebook\documents\visual studio 2013\Projects\Project\Project\bin\Debug\Project.exe
+c:\users\notebook\documents\visual studio 2013\Projects\Project\Project\bin\Debug\Project.pdb
+c:\users\notebook\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.Properties.Resources.resources
+c:\users\notebook\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.csproj.GenerateResource.Cache
+c:\users\notebook\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.exe
+c:\users\notebook\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.pdb
+C:\Users\Notebook\documents\visual studio 2013\Projects\Project\Project\bin\Debug\nunit.framework.dll
+C:\Users\Notebook\documents\visual studio 2013\Projects\Project\Project\bin\Debug\nunit.framework.xml
+C:\Users\Notebook\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.MainForm.resources
+C:\Users\Notebook\documents\visual studio 2013\Projects\Project\Project\bin\Debug\JacksonSoft.CustomTabControl.dll
+C:\Users\Notebook\documents\visual studio 2013\Projects\Project\Project\bin\Debug\JacksonSoft.CustomTabControl.pdb
+C:\Users\Notebook\documents\visual studio 2013\Projects\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+E:\Learning\C#\Project\Project\bin\Debug\Project.exe.config
+E:\Learning\C#\Project\Project\obj\Debug\Project.exe
+E:\Learning\C#\Project\Project\obj\Debug\Project.pdb

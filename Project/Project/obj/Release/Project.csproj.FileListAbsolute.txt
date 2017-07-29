@@ -1,0 +1,10 @@
+C:\Users\Notebook\documents\visual studio 2013\Projects\Project\Project\bin\Release\Project.exe.config
+C:\Users\Notebook\documents\visual studio 2013\Projects\Project\Project\bin\Release\Project.exe
+C:\Users\Notebook\documents\visual studio 2013\Projects\Project\Project\bin\Release\Project.pdb
+C:\Users\Notebook\documents\visual studio 2013\Projects\Project\Project\bin\Release\nunit.framework.dll
+C:\Users\Notebook\documents\visual studio 2013\Projects\Project\Project\bin\Release\nunit.framework.xml
+C:\Users\Notebook\documents\visual studio 2013\Projects\Project\Project\obj\Release\Project.MainForm.resources
+C:\Users\Notebook\documents\visual studio 2013\Projects\Project\Project\obj\Release\Project.Properties.Resources.resources
+C:\Users\Notebook\documents\visual studio 2013\Projects\Project\Project\obj\Release\Project.csproj.GenerateResource.Cache
+C:\Users\Notebook\documents\visual studio 2013\Projects\Project\Project\obj\Release\Project.exe
+C:\Users\Notebook\documents\visual studio 2013\Projects\Project\Project\obj\Release\Project.pdb
